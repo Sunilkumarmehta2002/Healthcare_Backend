@@ -59,7 +59,7 @@ PORT=3000
   openssl rand -base64 32   # Mac/Linux
   ```
 
-  Or use an [online key generator](https://www.allkeysgenerator.com/).
+  Or use an [online key generator](https://www.jwt.io/).
 
 ### 3️⃣ Create PostgreSQL Database
 
