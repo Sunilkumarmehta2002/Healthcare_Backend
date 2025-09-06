@@ -190,3 +190,8 @@ Authorization: Bearer <your_jwt_token>
 * Use [Postman](https://www.postman.com/) to test APIs
 * JWT tokens expire based on your `jwt.sign` configuration
 * Passwords are securely hashed before storage
+---  
+### 👀 Project Views
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.healthcare-backend)
+
